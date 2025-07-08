@@ -5,7 +5,7 @@
 
 A responsive, multi-page frontend prototype for a handyman services platform. Built with HTML, CSS, and JavaScript, it features essential pages like Home, About, How It Works, Estimate form, authentication, and provider signup. Perfect for integrating with backend APIs or migrating into a modern SPA.
 
-Live demo: https://satakratu6.github.io/HandyMan_FrontEnd/
+Live demo: https://handyman-fx77.onrender.com/
 
 ---
 
